@@ -1,0 +1,20 @@
+{
+  "name": "traccar-import",
+  "version": "1.0.0",
+  "description": "Import, check for duplicates and delete (clear) devices into and from taccar server.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "checkDuplicate": "node checkDuplicates.js",
+    "import": "node importDevices.js",
+    "delete": "node deleteDevices.js"
+  },
+  "keywords": [],
+  "author": "Mikiyas T.",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {}
+}
