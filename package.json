@@ -16,5 +16,13 @@
     "axios": "^0.27.2",
     "dotenv": "^16.0.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikiyasegaye/traccar-importer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mikiyasegaye/traccar-importer/issues"
+  },
+  "homepage": "https://github.com/mikiyasegaye/traccar-importer#readme"
 }
