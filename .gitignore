@@ -3,3 +3,4 @@ node_modules
 devices.xlsx
 devices.json
 duplicatedDevices.json
+phoneDigits.json
