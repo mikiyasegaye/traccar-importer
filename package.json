@@ -7,7 +7,8 @@
   "scripts": {
     "checkDuplicate": "node checkDuplicates.js",
     "import": "node importDevices.js",
-    "delete": "node deleteDevices.js"
+    "delete": "node deleteAllDevices.js",
+    "digits": "node checkPhoneDigits.js"
   },
   "keywords": [],
   "author": "Mikiyas T.",
